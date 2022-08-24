@@ -1,1 +1,1 @@
-My first readme
+My name is Michael, i am ALX software Engineering student
